@@ -1,0 +1,364 @@
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\appsettings.json
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\CesiWebApp.StaticWebAssets.xml
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\CesiWebApp.exe
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\CesiWebApp.deps.json
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\CesiWebApp.runtimeconfig.json
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\CesiWebApp.runtimeconfig.dev.json
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\CesiWebApp.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\CesiWebApp.pdb
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\CesiWebApp.Views.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\CesiWebApp.Views.pdb
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\CesiWebApp_Data.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\CesiWebApp_Data.pdb
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\CesiWebApp.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\CesiWebApp.AssemblyInfoInputs.cache
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\CesiWebApp.AssemblyInfo.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\CesiWebApp.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\CesiWebApp.MvcApplicationPartsAssemblyInfo.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\CesiWebApp.MvcApplicationPartsAssemblyInfo.cache
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\CesiWebApp.RazorAssemblyInfo.cache
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\CesiWebApp.RazorAssemblyInfo.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\CesiWebApp.TagHelpers.input.cache
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\CesiWebApp.TagHelpers.output.cache
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\CesiWebApp.RazorCoreGenerate.cache
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Views\ProfilUtilisateur\All.cshtml.g.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Views\ProfilUtilisateur\Create.cshtml.g.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Views\ProfilUtilisateur\Delete.cshtml.g.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Views\ProfilUtilisateur\Edit.cshtml.g.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Views\ProfilUtilisateur\index.cshtml.g.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\CesiWebApp.RazorTargetAssemblyInfo.cache
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\CesiWebApp.RazorTargetAssemblyInfo.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\CesiWebApp.Views.pdb
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\CesiWebApp.csproj.CopyComplete
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\staticwebassets\CesiWebApp.StaticWebAssets.Manifest.cache
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\staticwebassets\CesiWebApp.StaticWebAssets.xml
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\CesiWebApp.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\CesiWebApp.pdb
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\CesiWebApp.genruntimeconfig.cache
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\CesiWebApp.StaticWebAssets.xml
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\CesiWebApp.exe
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\CesiWebApp.deps.json
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\CesiWebApp.runtimeconfig.json
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\CesiWebApp.runtimeconfig.dev.json
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\CesiWebApp.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\CesiWebApp.pdb
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\CesiWebApp.Views.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\CesiWebApp.Views.pdb
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\CesiWebApp_Data.dll
+C:\C#\CesiWebApp\CesiWebApp\bin\Debug\netcoreapp3.1\CesiWebApp_Data.pdb
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\CesiWebApp.csprojAssemblyReference.cache
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\CesiWebApp.AssemblyInfoInputs.cache
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\CesiWebApp.AssemblyInfo.cs
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\CesiWebApp.csproj.CoreCompileInputs.cache
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\CesiWebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\CesiWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\CesiWebApp.RazorAssemblyInfo.cache
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\CesiWebApp.RazorAssemblyInfo.cs
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\CesiWebApp.TagHelpers.input.cache
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\CesiWebApp.TagHelpers.output.cache
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\CesiWebApp.RazorCoreGenerate.cache
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Views\ProfilUtilisateur\All.cshtml.g.cs
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Views\ProfilUtilisateur\Create.cshtml.g.cs
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Views\ProfilUtilisateur\Delete.cshtml.g.cs
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Views\ProfilUtilisateur\Edit.cshtml.g.cs
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Views\ProfilUtilisateur\index.cshtml.g.cs
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\CesiWebApp.RazorTargetAssemblyInfo.cache
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\CesiWebApp.RazorTargetAssemblyInfo.cs
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\CesiWebApp.Views.pdb
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\CesiWebApp.csproj.CopyComplete
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\staticwebassets\CesiWebApp.StaticWebAssets.Manifest.cache
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\staticwebassets\CesiWebApp.StaticWebAssets.xml
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\CesiWebApp.dll
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\CesiWebApp.pdb
+C:\C#\CesiWebApp\CesiWebApp\obj\Debug\netcoreapp3.1\CesiWebApp.genruntimeconfig.cache

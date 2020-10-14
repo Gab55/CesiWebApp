@@ -1,0 +1,24 @@
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiConsoleApp\bin\Debug\netcoreapp3.1\CesiConsoleApp.exe
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiConsoleApp\bin\Debug\netcoreapp3.1\CesiConsoleApp.deps.json
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiConsoleApp\bin\Debug\netcoreapp3.1\CesiConsoleApp.runtimeconfig.json
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiConsoleApp\bin\Debug\netcoreapp3.1\CesiConsoleApp.runtimeconfig.dev.json
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiConsoleApp\bin\Debug\netcoreapp3.1\CesiConsoleApp.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiConsoleApp\bin\Debug\netcoreapp3.1\CesiConsoleApp.pdb
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiConsoleApp\obj\Debug\netcoreapp3.1\CesiConsoleApp.AssemblyInfoInputs.cache
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiConsoleApp\obj\Debug\netcoreapp3.1\CesiConsoleApp.AssemblyInfo.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiConsoleApp\obj\Debug\netcoreapp3.1\CesiConsoleApp.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiConsoleApp\obj\Debug\netcoreapp3.1\CesiConsoleApp.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiConsoleApp\obj\Debug\netcoreapp3.1\CesiConsoleApp.pdb
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiConsoleApp\obj\Debug\netcoreapp3.1\CesiConsoleApp.genruntimeconfig.cache
+C:\C#\CesiWebApp\CesiConsoleApp\bin\Debug\netcoreapp3.1\CesiConsoleApp.exe
+C:\C#\CesiWebApp\CesiConsoleApp\bin\Debug\netcoreapp3.1\CesiConsoleApp.deps.json
+C:\C#\CesiWebApp\CesiConsoleApp\bin\Debug\netcoreapp3.1\CesiConsoleApp.runtimeconfig.json
+C:\C#\CesiWebApp\CesiConsoleApp\bin\Debug\netcoreapp3.1\CesiConsoleApp.runtimeconfig.dev.json
+C:\C#\CesiWebApp\CesiConsoleApp\bin\Debug\netcoreapp3.1\CesiConsoleApp.dll
+C:\C#\CesiWebApp\CesiConsoleApp\bin\Debug\netcoreapp3.1\CesiConsoleApp.pdb
+C:\C#\CesiWebApp\CesiConsoleApp\obj\Debug\netcoreapp3.1\CesiConsoleApp.AssemblyInfoInputs.cache
+C:\C#\CesiWebApp\CesiConsoleApp\obj\Debug\netcoreapp3.1\CesiConsoleApp.AssemblyInfo.cs
+C:\C#\CesiWebApp\CesiConsoleApp\obj\Debug\netcoreapp3.1\CesiConsoleApp.csproj.CoreCompileInputs.cache
+C:\C#\CesiWebApp\CesiConsoleApp\obj\Debug\netcoreapp3.1\CesiConsoleApp.dll
+C:\C#\CesiWebApp\CesiConsoleApp\obj\Debug\netcoreapp3.1\CesiConsoleApp.pdb
+C:\C#\CesiWebApp\CesiConsoleApp\obj\Debug\netcoreapp3.1\CesiConsoleApp.genruntimeconfig.cache

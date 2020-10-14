@@ -1,0 +1,17 @@
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp_Data\bin\Debug\netcoreapp3.1\CesiWebApp_Data.deps.json
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp_Data\bin\Debug\netcoreapp3.1\CesiWebApp_Data.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp_Data\bin\Debug\netcoreapp3.1\CesiWebApp_Data.pdb
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp_Data\obj\Debug\netcoreapp3.1\CesiWebApp_Data.AssemblyInfoInputs.cache
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp_Data\obj\Debug\netcoreapp3.1\CesiWebApp_Data.AssemblyInfo.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp_Data\obj\Debug\netcoreapp3.1\CesiWebApp_Data.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp_Data\obj\Debug\netcoreapp3.1\CesiWebApp_Data.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\CesiWebApp_Data\obj\Debug\netcoreapp3.1\CesiWebApp_Data.pdb
+C:\C#\CesiWebApp\CesiWebApp_Data\bin\Debug\netcoreapp3.1\CesiWebApp_Data.deps.json
+C:\C#\CesiWebApp\CesiWebApp_Data\bin\Debug\netcoreapp3.1\CesiWebApp_Data.dll
+C:\C#\CesiWebApp\CesiWebApp_Data\bin\Debug\netcoreapp3.1\CesiWebApp_Data.pdb
+C:\C#\CesiWebApp\CesiWebApp_Data\obj\Debug\netcoreapp3.1\CesiWebApp_Data.csprojAssemblyReference.cache
+C:\C#\CesiWebApp\CesiWebApp_Data\obj\Debug\netcoreapp3.1\CesiWebApp_Data.AssemblyInfoInputs.cache
+C:\C#\CesiWebApp\CesiWebApp_Data\obj\Debug\netcoreapp3.1\CesiWebApp_Data.AssemblyInfo.cs
+C:\C#\CesiWebApp\CesiWebApp_Data\obj\Debug\netcoreapp3.1\CesiWebApp_Data.csproj.CoreCompileInputs.cache
+C:\C#\CesiWebApp\CesiWebApp_Data\obj\Debug\netcoreapp3.1\CesiWebApp_Data.dll
+C:\C#\CesiWebApp\CesiWebApp_Data\obj\Debug\netcoreapp3.1\CesiWebApp_Data.pdb

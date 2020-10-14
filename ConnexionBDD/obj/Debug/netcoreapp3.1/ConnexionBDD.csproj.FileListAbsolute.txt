@@ -1,0 +1,148 @@
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\ConnexionBDD.exe
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\ConnexionBDD.deps.json
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\ConnexionBDD.runtimeconfig.json
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\ConnexionBDD.runtimeconfig.dev.json
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\ConnexionBDD.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\ConnexionBDD.pdb
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\EntityFramework.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\CesiWebApp_Data.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\CesiWebApp_Data.pdb
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\obj\Debug\netcoreapp3.1\ConnexionBDD.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\obj\Debug\netcoreapp3.1\ConnexionBDD.AssemblyInfoInputs.cache
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\obj\Debug\netcoreapp3.1\ConnexionBDD.AssemblyInfo.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\obj\Debug\netcoreapp3.1\ConnexionBDD.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\obj\Debug\netcoreapp3.1\ConnexionBDD.csproj.CopyComplete
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\obj\Debug\netcoreapp3.1\ConnexionBDD.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\obj\Debug\netcoreapp3.1\ConnexionBDD.pdb
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ConnexionBDD\obj\Debug\netcoreapp3.1\ConnexionBDD.genruntimeconfig.cache
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\ConnexionBDD.exe
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\ConnexionBDD.deps.json
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\ConnexionBDD.runtimeconfig.json
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\ConnexionBDD.runtimeconfig.dev.json
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\ConnexionBDD.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\ConnexionBDD.pdb
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\CesiWebApp_Data.dll
+C:\C#\CesiWebApp\ConnexionBDD\bin\Debug\netcoreapp3.1\CesiWebApp_Data.pdb
+C:\C#\CesiWebApp\ConnexionBDD\obj\Debug\netcoreapp3.1\ConnexionBDD.csprojAssemblyReference.cache
+C:\C#\CesiWebApp\ConnexionBDD\obj\Debug\netcoreapp3.1\ConnexionBDD.AssemblyInfoInputs.cache
+C:\C#\CesiWebApp\ConnexionBDD\obj\Debug\netcoreapp3.1\ConnexionBDD.AssemblyInfo.cs
+C:\C#\CesiWebApp\ConnexionBDD\obj\Debug\netcoreapp3.1\ConnexionBDD.csproj.CoreCompileInputs.cache
+C:\C#\CesiWebApp\ConnexionBDD\obj\Debug\netcoreapp3.1\ConnexionBDD.csproj.CopyComplete
+C:\C#\CesiWebApp\ConnexionBDD\obj\Debug\netcoreapp3.1\ConnexionBDD.dll
+C:\C#\CesiWebApp\ConnexionBDD\obj\Debug\netcoreapp3.1\ConnexionBDD.pdb
+C:\C#\CesiWebApp\ConnexionBDD\obj\Debug\netcoreapp3.1\ConnexionBDD.genruntimeconfig.cache

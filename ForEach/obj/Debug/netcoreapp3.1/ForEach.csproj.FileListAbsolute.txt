@@ -1,0 +1,73 @@
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ForEach\bin\Debug\netcoreapp3.1\appsettings.Development.json
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ForEach\bin\Debug\netcoreapp3.1\appsettings.json
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ForEach\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ForEach\bin\Debug\netcoreapp3.1\ForEach.exe
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ForEach\bin\Debug\netcoreapp3.1\ForEach.deps.json
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ForEach\bin\Debug\netcoreapp3.1\ForEach.runtimeconfig.json
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ForEach\bin\Debug\netcoreapp3.1\ForEach.runtimeconfig.dev.json
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ForEach\bin\Debug\netcoreapp3.1\ForEach.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ForEach\bin\Debug\netcoreapp3.1\ForEach.pdb
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ForEach\bin\Debug\netcoreapp3.1\ForEach.Views.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ForEach\bin\Debug\netcoreapp3.1\ForEach.Views.pdb
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\ForEach.AssemblyInfoInputs.cache
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\ForEach.AssemblyInfo.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\ForEach.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\ForEach.MvcApplicationPartsAssemblyInfo.cache
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\ForEach.RazorAssemblyInfo.cache
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\ForEach.RazorAssemblyInfo.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\ForEach.TagHelpers.input.cache
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\ForEach.TagHelpers.output.cache
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\ForEach.RazorCoreGenerate.cache
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\ForEach.RazorTargetAssemblyInfo.cache
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\ForEach.RazorTargetAssemblyInfo.cs
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\ForEach.Views.pdb
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\staticwebassets\ForEach.StaticWebAssets.Manifest.cache
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\staticwebassets\ForEach.StaticWebAssets.xml
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\ForEach.dll
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\ForEach.pdb
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\ForEach.genruntimeconfig.cache
+\\vmware-host\Shared Folders\Documents\VisualStudio\Projet\ProjetC#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\ForEach.csproj.CopyComplete
+C:\C#\CesiWebApp\ForEach\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\C#\CesiWebApp\ForEach\bin\Debug\netcoreapp3.1\appsettings.json
+C:\C#\CesiWebApp\ForEach\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\C#\CesiWebApp\ForEach\bin\Debug\netcoreapp3.1\ForEach.exe
+C:\C#\CesiWebApp\ForEach\bin\Debug\netcoreapp3.1\ForEach.deps.json
+C:\C#\CesiWebApp\ForEach\bin\Debug\netcoreapp3.1\ForEach.runtimeconfig.json
+C:\C#\CesiWebApp\ForEach\bin\Debug\netcoreapp3.1\ForEach.runtimeconfig.dev.json
+C:\C#\CesiWebApp\ForEach\bin\Debug\netcoreapp3.1\ForEach.dll
+C:\C#\CesiWebApp\ForEach\bin\Debug\netcoreapp3.1\ForEach.pdb
+C:\C#\CesiWebApp\ForEach\bin\Debug\netcoreapp3.1\ForEach.Views.dll
+C:\C#\CesiWebApp\ForEach\bin\Debug\netcoreapp3.1\ForEach.Views.pdb
+C:\C#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\ForEach.csprojAssemblyReference.cache
+C:\C#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\ForEach.AssemblyInfoInputs.cache
+C:\C#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\ForEach.AssemblyInfo.cs
+C:\C#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\ForEach.csproj.CoreCompileInputs.cache
+C:\C#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\ForEach.MvcApplicationPartsAssemblyInfo.cache
+C:\C#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\ForEach.RazorAssemblyInfo.cache
+C:\C#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\ForEach.RazorAssemblyInfo.cs
+C:\C#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\ForEach.TagHelpers.input.cache
+C:\C#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\ForEach.TagHelpers.output.cache
+C:\C#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\ForEach.RazorCoreGenerate.cache
+C:\C#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\C#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\C#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\C#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\C#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\C#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\C#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\C#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\ForEach.RazorTargetAssemblyInfo.cache
+C:\C#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\ForEach.RazorTargetAssemblyInfo.cs
+C:\C#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\ForEach.Views.pdb
+C:\C#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\staticwebassets\ForEach.StaticWebAssets.Manifest.cache
+C:\C#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\staticwebassets\ForEach.StaticWebAssets.xml
+C:\C#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\ForEach.dll
+C:\C#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\ForEach.pdb
+C:\C#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\ForEach.genruntimeconfig.cache
+C:\C#\CesiWebApp\ForEach\obj\Debug\netcoreapp3.1\ForEach.csproj.CopyComplete
